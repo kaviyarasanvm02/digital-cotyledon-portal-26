@@ -87,9 +87,9 @@ const Header = () => {
                   {link.label}
                 </a>
               ))}
-              <Button size="sm" variant="default" className="w-full">
+              {/* <Button size="sm" variant="default" className="w-full">
                 Get in Touch
-              </Button>
+              </Button> */}
             </nav>
           </div>
         )}
